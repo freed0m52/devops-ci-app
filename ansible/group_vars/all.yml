@@ -1,0 +1,5 @@
+app_image: "ghcr.io/freed0m52/devops-ci-app"
+app_tag: "303880c436755f5e85cbe3055669e0a021a74a45"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
